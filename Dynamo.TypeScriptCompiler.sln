@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamo.TypeScriptCompiler", "Dynamo.TypeScriptCompiler\Dynamo.TypeScriptCompiler.csproj", "{C0B5D38C-BAA7-472A-BC2F-ED51D1CD1138}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamo.TypeScriptCompiler.Tests", "Dynamo.TypeScriptCompiler.Tests\Dynamo.TypeScriptCompiler.Tests.csproj", "{E52E15E9-898B-4A92-A824-5B7BB3CEBA1B}"
@@ -22,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BE58980-7228-4C86-913C-CE557D2D144A}
 	EndGlobalSection
 EndGlobal

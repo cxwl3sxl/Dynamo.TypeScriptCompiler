@@ -18,3 +18,4 @@ _Resharper.*/
 *.snk
 *.nupkg
 packages/
+.vs
